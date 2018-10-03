@@ -1,5 +1,5 @@
 
-##Portfolio 2.0
+## Portfolio 2.0
 
 Second version of a personal website link together contact info and showcase my projects.
 
